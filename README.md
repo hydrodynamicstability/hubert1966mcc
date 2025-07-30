@@ -40,7 +40,7 @@ Arthur F. Krueger and Sigmund Fritz, 1961:  [Cellular cloud patterns revealed by
 
 ## Acknowledgments
 
-I am grateful to Prof. Ernest M. Agee, who first introduced me to the Hubert report.
+I am grateful to Prof. Ernest M. Agee, who first introduced me to the Hubert report, sometime in 1996.
 
 -- Christopher Tong, July 30, 2025
 
