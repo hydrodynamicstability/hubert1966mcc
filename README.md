@@ -11,7 +11,7 @@ The author, "Les" Hubert, was born in 1913 in Minnesota and died in 2014.  He wa
 The following is a NOAA photograph (copyright free) which I screenshotted from his DOC Gold Medal announcment in *BAMS* (January 1977, p. 70).
 
 <center>
-<img src="hubert1977noaaPNG.PNG" width="700">
+<img src="hubert1977noaaPNG.PNG" width="350">
 </center>
 
 ## References
